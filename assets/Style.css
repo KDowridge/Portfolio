@@ -1,0 +1,12 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(19, 18, 17);
+    background-color: rgb(78, 122, 204);
+}
+
+image {
+    border-color: rgba(40, 92, 27, 0.568);
+    border-style: dashed;
+    border-width: 3px;
+}
