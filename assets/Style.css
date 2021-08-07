@@ -3,8 +3,12 @@
     text-align: center;
     color: rgb(19, 18, 17);
     background-color: rgb(238, 241, 247);
+    
 }
 
+
+
+    
 image {
     border-color: rgba(40, 92, 27, 0.568);
     border-style: dotted;
@@ -35,3 +39,4 @@ h5 {
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
