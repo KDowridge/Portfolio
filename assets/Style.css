@@ -1,6 +1,6 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
+    text-align: left;
     color: rgb(19, 18, 17);
     background-color: rgb(238, 241, 247);
     
@@ -32,7 +32,7 @@ image {
     display: flex;
     height: 100px;
     width: 100px;
-    text-align: center;
+    text-align: left;
 }
 
 h5 {
